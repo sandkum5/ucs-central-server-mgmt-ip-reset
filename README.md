@@ -1,6 +1,8 @@
 # ucs-central-server-mgmt-ip-reset
 This scripts resets the UCS Central Server KVM Management IP using UCS Central XML API calls. 
 
+## NOTE : NOT PRODUCTION TESTED. USE THIS AT YOUR OWN RISK
+
 
 ### Sample Run
 
